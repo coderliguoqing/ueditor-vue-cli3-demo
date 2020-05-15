@@ -1,0 +1,1 @@
+export const SET_IM_CLIENT = 'SET_IM_CLIENT'

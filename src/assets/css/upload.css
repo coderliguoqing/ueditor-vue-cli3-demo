@@ -1,0 +1,25 @@
+.webuploader-element-invisible {
+	position: absolute;
+	filter: alpha(opacity=0);
+	opacity: 0;
+	width: 148px;
+	height: 148px;
+	cursor: pointer;
+	z-index: 9999999;
+}
+.webuploader-container {
+	position: relative;
+	width: 148px;
+	height: 148px;
+	float: left;
+}
+.webuploader-pick {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+	padding: 74px;
+	color: #fff;
+	text-align: center;
+	border-radius: 3px;
+	overflow: hidden;
+}
