@@ -1,5 +1,5 @@
 # vue-admin-demo
-基于`vue-cli3`的蓝月亮前后分离框架后台web管理系统端.
+基于`vue-cli3`的前后分离框架后台web管理系统端.
 
 ## 说明  
 基于`vue-cli3`构建的后端管理系统WEB框架  
