@@ -14,7 +14,7 @@
     "core-js": "^2.6.5",
     "echarts": "^4.0.4",
     "element-ui": "^2.6.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vue-ueditor-wrap": "^2.4.1",
